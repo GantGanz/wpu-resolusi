@@ -1,7 +1,9 @@
 Rencana konten
 - konten 1
   * detail 1
-    + isi 3
+    + isi 1
+    + isi 2
+- 1.5
 - 2
   * detail 22
 - 3
