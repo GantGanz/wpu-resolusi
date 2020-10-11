@@ -1,6 +1,5 @@
 Rencana konten
 - konten 1
   * detail 1
-  * detail 2
 - 2
 - 3
